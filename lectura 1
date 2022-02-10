@@ -1,0 +1,14 @@
+---
+title: "resumen lectura1"
+author: "Sergio"
+date: "2/9/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+La demografía y la población son conceptos relacionados, inclusive 
+en la lectura se comenta la población es el objeto de estudio de la demografía. 
+En este los componentes de la demografía son tres: Fecundidad, migración y mortalidad. 
+Estos componentes conformar y transformar la estructura de una población en una comunidad, región o país, según la definamos.
